@@ -1,0 +1,16 @@
+---------------------------------------------------------------------
+Welcome to Mastermind!
+
+Mastermind is a two-player game consisting of a codemaker and a 
+codebreaker. You are the codebreaker and I am the codemaker. I will 
+secretly select a four letter code cosisting of the letters 
+A, B, C, D, E and F with possible repetitions. Your job is to guess 
+my secret code! After each guess you make, I'll provide a hint. The 
+hint consists of two numbers. The first number is the number of 
+letters correctly guessed in the correct position. The second number 
+are parts of the code correctly guessed but not in the correct 
+position. You continue to guess until you guess correctly. 
+However, you only get ten guesses. 
+
+Good Luck!
+---------------------------------------------------------------------
